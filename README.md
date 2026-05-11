@@ -41,15 +41,9 @@ This workflow receives Telegram messages, processes them through an AI agent, st
 
 ---
 
-## Workflow Screenshot
-
-![Workflow](screenshots/workflow.png)
-
----
-
 ## Example Telegram Chat
 
-![Telegram Chat](screenshots/telegram-chat-example.png)
+![Telegram Chat](Screenshots/telegram-chat-example.jpeg)
 
 ---
 
