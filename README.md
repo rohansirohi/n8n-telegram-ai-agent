@@ -4,6 +4,11 @@ A Telegram AI chatbot workflow built using n8n automation and Groq LLM integrati
 
 This workflow receives Telegram messages, processes them through an AI agent, stores short conversation memory, and automatically replies back to the user.
 
+## Workflow Screenshot
+
+![Workflow](Screenshots/workflow_image.png)
+
+
 ---
 
 ## Features
